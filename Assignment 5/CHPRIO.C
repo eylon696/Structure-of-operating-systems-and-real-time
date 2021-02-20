@@ -38,7 +38,7 @@ SYSCALL chprio(pid,newprio)
 
 
 
-/*	------------------Original function for beckup-------------------
+/*	------------------Original function for backup-------------------
 SYSCALL chprio(pid, newprio)
 int	pid;
 int	newprio;	
